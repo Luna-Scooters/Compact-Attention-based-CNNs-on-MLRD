@@ -1,5 +1,6 @@
 # The dataset is available on kaggle (https://www.kaggle.com/datasets/kaundanyachinmaya07/micromobility-lane-recognition-dataset)
 # The detailed explanation of the scripts and the dataset will be updated soon.
+# MLRDv2 will be available upon the paper's acceptance. 
 
 ## Citing this paper
 
