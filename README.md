@@ -1,6 +1,6 @@
 # The dataset is available on kaggle (https://www.kaggle.com/datasets/kaundanyachinmaya07/micromobility-lane-recognition-dataset)
-# The detailed explanation of the scripts and the dataset will be updated soon.
-# MLRDv2 will be available upon the paper's acceptance. 
+
+# MLRDv2 is publicly available on google drive folder (https://drive.google.com/drive/folders/14h4PQ2VdLFShmzIqKSlR5hAVX38ryF4x?usp=sharing). 
 
 ## Citing this paper
 
@@ -15,4 +15,17 @@ organization={INSTICC},
 doi={10.5220/0012600300003702},
 isbn={978-989-758-703-0},
 issn={2184-495X},
+}
+
+## Citing MLRDv2 paper
+
+@article{kaundanya2026mlrdv2,
+  title={MLRDv2: A Dataset for Improving Micromobility Safety via Attention-Integrated Compact CNN Models},
+  author={Kaundanya, Chinmaya and Cesar, Paulo and Cronin, Barry and Fleury, Andrew and Liu, Mingming and Little, Suzanne},
+  journal={SN Computer Science},
+  volume={7},
+  number={2},
+  pages={149},
+  year={2026},
+  publisher={Springer}
 }
